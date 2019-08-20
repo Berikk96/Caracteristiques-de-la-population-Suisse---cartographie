@@ -18,4 +18,4 @@ J'ai décidé d'effectuer ce travail sur CodePen, plateforme qui m'a beaucoup pl
 et enfin surtout, 
 3) de faire correspondre la sélection du menu déroulant avec la carte contenant les variables en question.
 
-Il m'a donc fallu combler mes lacunes en Javascript et D3 et consulter de nombreux site, mais finalement, ça marche. Bien évidemment, le résultat paraît plutôt simple mais correspond à de nombreuses heures de travail pour moi, car le point 3) n'était pas trivial. J'ai failli me tourner vers StackExchange, mais ai eu la précieuse aide d'une amie en informatique, qui a gentiment pris le temps de m'expliquer la logique de D3.
+Il m'a donc fallu combler mes lacunes en Javascript et D3 et consulter de nombreux sites, mais finalement, ça marche. Bien évidemment, le résultat paraît plutôt simple mais correspond à de nombreuses heures de travail pour moi, car le point 3) n'était pas trivial. J'ai failli me tourner vers StackExchange, mais ai eu la précieuse aide d'une amie en informatique, qui a gentiment pris le temps de m'expliquer la logique de D3.
