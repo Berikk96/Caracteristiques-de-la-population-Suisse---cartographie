@@ -2,7 +2,7 @@
 Cartographie illustrant différents indicateurs de la population Suisse selon les cantons.
 
 
-Comme déjà signalé durant le semestre, nous avions prévu d'effectuer ce travail en binôme avec Margarita Rakeviciute. Nous avons cependant finalement choisi de travailler séparément et faire chacune son propre projet, pour des raisons organisationelles et personnelles. Je tiens à clarifier que j'ai réalisé ce travail toute seule du début à la fin; il n'y a que l'idée de projet qui vient de nous deux. D'un commun accord, nous avons décidé que je reprendrai l'idée de ce projet de cartographie, et que Margarita en entamera un nouveau issu d'une autre idée personnelle. J'ai cependant décidé de changer de jeu de données.
+Comme déjà signalé durant le semestre, nous avions prévu d'effectuer ce travail en binôme avec Margarita R. Nous avons cependant finalement choisi de travailler séparément et faire chacune son propre projet, pour des raisons organisationelles et personnelles. Je tiens à clarifier que j'ai réalisé ce travail toute seule du début à la fin; il n'y a que l'idée de projet qui vient de nous deux. D'un commun accord, nous avons décidé que je reprendrai l'idée de ce projet de cartographie, et que Margarita en entamera un nouveau issu d'une autre idée personnelle. J'ai cependant décidé de changer de jeu de données.
 
 Afin d'appliquer mes nouvelles connaissances acquises grâce à ce cours, j'ai décidé de faire une cartographie de la Suisse, avec plusieurs "features", comme la couleur avec différentes teintes allant du clair au foncé, et un menu déroulant permettant à l'utilisateur de changer de variables.
 
