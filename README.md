@@ -8,4 +8,5 @@ Les données utilisées pour la carte ont été téléchargées sur le site de l
 
 La carte, en format JSON, est l'oeuvre de Mike Bostock: https://bl.ocks.org/mbostock/4207744. 
 
+Le projet a été réalisé sur CodePen, et peut également être visualisé à cette adresse: https://codepen.io/Berikk/pen/LwQVeW.
 
