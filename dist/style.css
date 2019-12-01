@@ -1,0 +1,14 @@
+.canton{
+  stroke: white;
+  stroke-width: 0.25px;
+}
+text {
+  font-family: "Calibri";
+  font-size: 13px;
+  text-anchor: middle;
+  color: black;
+}
+.canton:hover{
+  fill: grey;
+  stroke: black;
+}
